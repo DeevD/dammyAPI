@@ -1,66 +1,55 @@
 {
-   "artist": [
-       {
-           "artist_id": "1",
-           "artist_name": Lay Phyu,
-           "artist_image": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg"
-       },
-       {
-           "artist_id": "1",
-           "artist_name": Lay Phyu,
-           "artist_image": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg"
-       },
-       {
-           "artist_id": "1",
-           "artist_name": Lay Phyu,
-           "artist_image": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg"
-       },
-       {
-           "artist_id": "1",
-           "artist_name": Lay Phyu,
-           "artist_image": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg"
-       },
-       {
-           "artist_id": "1",
-           "artist_name": Lay Phyu,
-           "artist_image": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg"
-       },
-       {
-           "artist_id": "1",
-           "artist_name": Lay Phyu,
-           "artist_image": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg"
-       }
-   ],
-   "album": [
-       {
-           "album_id": "1",
-           "album_name": LMN,
-           "album_image": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg"
-       },
-       {
-           "album_id": "1",
-           "album_name": LMN,
-           "album_image": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg"
-       },
-       {
-           "album_id": "1",
-           "album_name": LMN,
-           "album_image": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg"
-       },
-       {
-           "album_id": "1",
-           "album_name": LMN,
-           "album_image": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg"
-       },
-       {
-           "album_id": "1",
-           "album_name": LMN,
-           "album_image": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg"
-       },
-       {
-           "album_id": "1",
-           "album_name": LMN,
-           "album_image": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg"
-       }
-   ]
+  "page": 1,
+  "total_results": 3,
+  "total_pages": 1,
+  "results": [
+    {
+      "vote_count": 0,
+      "id": 327710,
+      "video": false,
+      "vote_average": 0,
+      "title": "Sasha Grey Superslut",
+      "popularity": 1.012746,
+      "poster_path": "/6nQedBJSZBTA9N0MBJXx254Nrea.jpg",
+      "original_language": "en",
+      "original_title": "Sasha Grey Superslut",
+      "genre_ids": [],
+      "backdrop_path": null,
+      "adult": true,
+      "overview": "Sasha Grey Superslut: Sasha Grey is by far the nastiest new star to explode on the adult scene, totally uninhibited and dangerously daring in her carnal pursuits of delicious debauchery!",
+      "release_date": "2006-11-01"
+    },
+    {
+      "vote_count": 0,
+      "id": 356512,
+      "video": true,
+      "vote_average": 0,
+      "title": "The Best of Sasha Grey",
+      "popularity": 1.05741,
+      "poster_path": "/wAqdbwiDJpSb7Qz5DmQMCqcmAfA.jpg",
+      "original_language": "en",
+      "original_title": "The Best of Sasha Grey",
+      "genre_ids": [],
+      "backdrop_path": "/rHkkw0Sk83R67DyDgq9npZVweTc.jpg",
+      "adult": true,
+      "overview": "Sasha Grey is one of the most recognizable and sought after porn stars in the biz today. She is the epitome of dark sexual desire and she always brings this out in all of her scenes. Her love for sex is transmitted to all with her deep pleasures in a variety of scenarios. She does not hesitate to bring out her sexuality to the camera and this is evident in her scenes in this must have DVD encapsulating Sasha Grey as one of the best stars ever to grace the camera!!",
+      "release_date": "2015-07-06"
+    },
+    {
+      "vote_count": 1,
+      "id": 59321,
+      "video": false,
+      "vote_average": 10,
+      "title": "Sasha Grey's Anatomy",
+      "popularity": 1.05657,
+      "poster_path": "/dWJDoXiq7E8ZfQQklIcuFKrf3Z9.jpg",
+      "original_language": "en",
+      "original_title": "Sasha Grey's Anatomy",
+      "genre_ids": [],
+      "backdrop_path": null,
+      "adult": true,
+      "overview": "Sasha Grey’s Anatomy is a medical and mental health-themed sex fest taking place at the San Fernando Valley’s Center for Sexual Dysfunctions and where the characters tend to the kinky eccentricities of both their patients and each other.",
+      "release_date": "2008-06-03"
+    }
+  ]
 }
