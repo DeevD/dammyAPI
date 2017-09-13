@@ -1,0 +1,409 @@
+{
+    "results": [
+        {
+            "vote_count": 416,
+            "id": 346364,
+            "video": false,
+            "vote_average": 7.4,
+            "title": "It",
+            "popularity": 312.466822,
+            "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+            "original_language": "en",
+            "original_title": "It",
+            "genre_ids": [
+                27
+            ],
+            "backdrop_path": "/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg",
+            "adult": false,
+            "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+            "release_date": "2017-08-17"
+        },
+        {
+            "vote_count": 767,
+            "id": 396422,
+            "video": false,
+            "vote_average": 6.5,
+            "title": "Annabelle: Creation",
+            "popularity": 282.445457,
+            "poster_path": "/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+            "original_language": "en",
+            "original_title": "Annabelle: Creation",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "backdrop_path": "/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg",
+            "adult": false,
+            "overview": "Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker's possessed creation, Annabelle.",
+            "release_date": "2017-08-03"
+        },
+        {
+            "vote_count": 1698,
+            "id": 324852,
+            "video": false,
+            "vote_average": 6.2,
+            "title": "Despicable Me 3",
+            "popularity": 280.091898,
+            "poster_path": "/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg",
+            "original_language": "en",
+            "original_title": "Despicable Me 3",
+            "genre_ids": [
+                878,
+                12,
+                16,
+                35,
+                10751
+            ],
+            "backdrop_path": "/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
+            "adult": false,
+            "overview": "Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achieving world domination.",
+            "release_date": "2017-06-15"
+        },
+        {
+            "vote_count": 3014,
+            "id": 315635,
+            "video": false,
+            "vote_average": 7.3,
+            "title": "Spider-Man: Homecoming",
+            "popularity": 230.996033,
+            "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+            "original_language": "en",
+            "original_title": "Spider-Man: Homecoming",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "backdrop_path": "/vc8bCGjdVp0UbMNLzHnHSLRbBWQ.jpg",
+            "adult": false,
+            "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+            "release_date": "2017-07-05"
+        },
+        {
+            "vote_count": 41,
+            "id": 339404,
+            "video": false,
+            "vote_average": 4.7,
+            "title": "The Layover",
+            "popularity": 210.751594,
+            "poster_path": "/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg",
+            "original_language": "en",
+            "original_title": "The Layover",
+            "genre_ids": [
+                35
+            ],
+            "backdrop_path": "/ibianpvL865w7rBPAg3sPlEXUyh.jpg",
+            "adult": false,
+            "overview": "When their plane is rerouted due to a hurricane warning, two single female best friends find themselves competing for the same guy during an extended layover in St. Louis.",
+            "release_date": "2017-09-01"
+        },
+        {
+            "vote_count": 508,
+            "id": 390043,
+            "video": false,
+            "vote_average": 6.4,
+            "title": "The Hitman's Bodyguard",
+            "popularity": 172.74752,
+            "poster_path": "/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+            "original_language": "en",
+            "original_title": "The Hitman's Bodyguard",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "backdrop_path": "/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+            "adult": false,
+            "overview": "The world's top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+            "release_date": "2017-08-16"
+        },
+        {
+            "vote_count": 549,
+            "id": 353491,
+            "video": false,
+            "vote_average": 5.6,
+            "title": "The Dark Tower",
+            "popularity": 133.693689,
+            "poster_path": "/i9GUSgddIqrroubiLsvvMRYyRy0.jpg",
+            "original_language": "en",
+            "original_title": "The Dark Tower",
+            "genre_ids": [
+                28,
+                37,
+                878,
+                14,
+                27
+            ],
+            "backdrop_path": "/2n7Zn6WxJ76ccOwnuQHuhSFMbqt.jpg",
+            "adult": false,
+            "overview": "The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.",
+            "release_date": "2017-08-03"
+        },
+        {
+            "vote_count": 2214,
+            "id": 374720,
+            "video": false,
+            "vote_average": 7.5,
+            "title": "Dunkirk",
+            "popularity": 127.823221,
+            "poster_path": "/bOXBV303Fgkzn2K4FeKDc0O31q4.jpg",
+            "original_language": "en",
+            "original_title": "Dunkirk",
+            "genre_ids": [
+                28,
+                18,
+                36,
+                53,
+                10752
+            ],
+            "backdrop_path": "/fudEG1VUWuOqleXv6NwCExK0VLy.jpg",
+            "adult": false,
+            "overview": "The miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26th and June 4th 1940, during the Battle of France in World War II.",
+            "release_date": "2017-07-19"
+        },
+        {
+            "vote_count": 202,
+            "id": 293768,
+            "video": false,
+            "vote_average": 5.8,
+            "title": "Kidnap",
+            "popularity": 106.865373,
+            "poster_path": "/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg",
+            "original_language": "en",
+            "original_title": "Kidnap",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "backdrop_path": "/6fwuBSN56KtiHH19bLRIxGtfpC5.jpg",
+            "adult": false,
+            "overview": "Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.",
+            "release_date": "2017-08-04"
+        },
+        {
+            "vote_count": 1110,
+            "id": 335988,
+            "video": false,
+            "vote_average": 6.3,
+            "title": "Transformers: The Last Knight",
+            "popularity": 98.014284,
+            "poster_path": "/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg",
+            "original_language": "en",
+            "original_title": "Transformers: The Last Knight",
+            "genre_ids": [
+                28,
+                878,
+                53,
+                12
+            ],
+            "backdrop_path": "/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg",
+            "adult": false,
+            "overview": "Autobots and Decepticons are at war, with humans on the sidelines. Optimus Prime is gone. The key to saving our future lies buried in the secrets of the past, in the hidden history of Transformers on Earth.",
+            "release_date": "2017-06-21"
+        },
+        {
+            "vote_count": 195,
+            "id": 339692,
+            "video": false,
+            "vote_average": 6.9,
+            "title": "Shot Caller",
+            "popularity": 90.85344,
+            "poster_path": "/qLmLz2wtyYvmW8Ult3l2ngOnW8v.jpg",
+            "original_language": "en",
+            "original_title": "Shot Caller",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "backdrop_path": "/hehboYLXB3m90x9ybiBsupwuifL.jpg",
+            "adult": false,
+            "overview": "A newly-released prison gangster is forced by the leaders of his gang to orchestrate a major crime with a brutal rival gang on the streets of Southern California.",
+            "release_date": "2017-07-13"
+        },
+        {
+            "vote_count": 13,
+            "id": 430682,
+            "video": false,
+            "vote_average": 4.8,
+            "title": "Gun Shy",
+            "popularity": 67.518261,
+            "poster_path": "/ugzaRtgrf2MBCUawgiE6xayXXIE.jpg",
+            "original_language": "en",
+            "original_title": "Gun Shy",
+            "genre_ids": [
+                35,
+                28,
+                12
+            ],
+            "backdrop_path": "/mnJKjl0FwI81pIoRVlIqrb9Fal4.jpg",
+            "adult": false,
+            "overview": "A mega-platinum, aging rock star's supermodel wife is abducted by pirates while vacationing in Chile.",
+            "release_date": "2017-09-08"
+        },
+        {
+            "vote_count": 352,
+            "id": 342473,
+            "video": false,
+            "vote_average": 7.1,
+            "title": "Ballerina",
+            "popularity": 64.141372,
+            "poster_path": "/60ZhK1FstSkC9Ms8lRWaTPm55kD.jpg",
+            "original_language": "en",
+            "original_title": "Ballerina",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751
+            ],
+            "backdrop_path": "/yfRWtsCVDiYnfrZ8ndL3G2WMHid.jpg",
+            "adult": false,
+            "overview": "Set in 1879 Paris. An orphan girl dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house.",
+            "release_date": "2016-12-14"
+        },
+        {
+            "vote_count": 7,
+            "id": 427900,
+            "video": false,
+            "vote_average": 3.4,
+            "title": "Home Again",
+            "popularity": 61.060569,
+            "poster_path": "/z5CtCxpblBke2G8c7CMkstedMgY.jpg",
+            "original_language": "en",
+            "original_title": "Home Again",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "backdrop_path": "/pxpEFY66yYr5bA1N4PCm5b4uz40.jpg",
+            "adult": false,
+            "overview": "Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.",
+            "release_date": "2017-09-07"
+        },
+        {
+            "vote_count": 32,
+            "id": 395814,
+            "video": false,
+            "vote_average": 6.6,
+            "title": "Rememory",
+            "popularity": 60.671794,
+            "poster_path": "/sGQ4kix7bIT35ePpJzA2rNNaxPY.jpg",
+            "original_language": "en",
+            "original_title": "Rememory",
+            "genre_ids": [
+                878,
+                18,
+                9648
+            ],
+            "backdrop_path": "/3vSrGsnMjzAycIU80udh7NFAJkP.jpg",
+            "adult": false,
+            "overview": "The widow of a wise professor stumbles upon one of his inventions that's able to record and play a person's memory.",
+            "release_date": "2017-09-08"
+        },
+        {
+            "vote_count": 1425,
+            "id": 281338,
+            "video": false,
+            "vote_average": 6.7,
+            "title": "War for the Planet of the Apes",
+            "popularity": 59.199536,
+            "poster_path": "/y52mjaCLoJJzxfcDDlksKDngiDx.jpg",
+            "original_language": "en",
+            "original_title": "War for the Planet of the Apes",
+            "genre_ids": [
+                18,
+                878,
+                10752
+            ],
+            "backdrop_path": "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+            "adult": false,
+            "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+            "release_date": "2017-07-11"
+        },
+        {
+            "vote_count": 57,
+            "id": 408648,
+            "video": false,
+            "vote_average": 5.5,
+            "title": "Batman and Harley Quinn",
+            "popularity": 57.43804,
+            "poster_path": "/uVdxoD9kn28qC8VQiVA6Uif1QHl.jpg",
+            "original_language": "it",
+            "original_title": "Batman and Harley Quinn",
+            "genre_ids": [
+                12,
+                28,
+                16
+            ],
+            "backdrop_path": "/2JVnUtyUKbQm165cXUF9r5iVPDo.jpg",
+            "adult": false,
+            "overview": "Batman and Nightwing are forced to team with the Joker's sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.",
+            "release_date": "2017-08-14"
+        },
+        {
+            "vote_count": 83,
+            "id": 399170,
+            "video": false,
+            "vote_average": 6.6,
+            "title": "Logan Lucky",
+            "popularity": 57.190135,
+            "poster_path": "/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg",
+            "original_language": "en",
+            "original_title": "Logan Lucky",
+            "genre_ids": [
+                28,
+                80,
+                35
+            ],
+            "backdrop_path": "/xFR8nZLVvXNSPNdMjdMC7K9bERB.jpg",
+            "adult": false,
+            "overview": "Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.",
+            "release_date": "2017-08-17"
+        },
+        {
+            "vote_count": 3,
+            "id": 467432,
+            "video": false,
+            "vote_average": 6,
+            "title": "True to the Game",
+            "popularity": 52.545037,
+            "poster_path": "/yCNlqcRdP9haLmCgBiD5zX59F9P.jpg",
+            "original_language": "en",
+            "original_title": "True to the Game",
+            "genre_ids": [
+                18
+            ],
+            "backdrop_path": "/9Z0D2TcrebYBnd3iViFHT4khdQh.jpg",
+            "adult": false,
+            "overview": "Based on the Terri Woods best selling novel, True to the Game is the love story of Quadir Richards, a charismatic drug lord, and Gena Rollins, a young girl from the projects of Philly. Quadir was able to gain the trust and love of Gena and was on his way out of the game to start a new life with his future bride when tragedy strikes.",
+            "release_date": "2017-09-08"
+        },
+        {
+            "vote_count": 33,
+            "id": 460790,
+            "video": false,
+            "vote_average": 5.9,
+            "title": "Starship Troopers: Traitor of Mars",
+            "popularity": 52.495971,
+            "poster_path": "/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg",
+            "original_language": "en",
+            "original_title": "Starship Troopers: Traitor of Mars",
+            "genre_ids": [
+                28,
+                16,
+                878
+            ],
+            "backdrop_path": "/u3hiCBwJ2yGCiJb3kOoqXThTQ7Z.jpg",
+            "adult": false,
+            "overview": "Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.",
+            "release_date": "2017-08-21"
+        }
+    ],
+    "page": 1,
+    "total_results": 891,
+    "dates": {
+        "maximum": "2017-09-11",
+        "minimum": "2017-07-25"
+    },
+    "total_pages": 45
+}
