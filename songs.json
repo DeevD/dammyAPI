@@ -5,7 +5,7 @@
          "artist_id" : 1,
          "artist_name" : "Doe Lone",
          "album_id" : 1,
-         "song_url" : "http://www.sample-videos.com/audio/mp3/crowd-cheering.mp3",
+         "song_url" : "https://archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_001_dumas.mp3",
          "image":"https://raw.githubusercontent.com/yekoko/yangonheart/master/doelone.jpg",
          "album_name" : "LMN"
        },
